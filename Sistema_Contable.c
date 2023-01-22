@@ -22,7 +22,7 @@ int main(){
         }else{
             sumaN+=valores;
         }
-        balanceTotal=suma-sumaN;
+        balanceTotal=suma+sumaN;
 
 
             

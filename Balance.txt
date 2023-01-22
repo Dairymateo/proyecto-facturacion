@@ -6,4 +6,4 @@ los Ingresos son: 2326
 
 los Gastos son: -1537
 
-El capital de la empresa es: 3863
+El capital de la empresa es: 789
