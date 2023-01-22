@@ -16,7 +16,7 @@ int main(){
 
     int cont=1;
     while(!feof(Ing)){
-        fscanf(Ing, "%d", &valores); //tiene la capacida de leer datos fomatiados
+        fscanf(Ing, "%d", &valores); 
         if(valores>=0){ 
             suma+=valores;
         }else{
