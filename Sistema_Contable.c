@@ -28,10 +28,14 @@ int main(){
             
     }
         cont++;
-        fprintf("******Bienvenido*********");
-        fprintf("EL detalle de ingresos y gastos es el siguiente: ");
+        fprintf(Balance,"*****Bienvenido*******\n");
+        fprintf(Balance, "\n");
+        fprintf(Balance, "EL detalle de ingresos y gastos es el siguiente: \n");
+        fprintf(Balance, "\n");
         fprintf(Balance, "los Ingresos son: %d\n", suma);
+        fprintf(Balance, "\n");
         fprintf(Balance, "los Gastos son: %d\n", sumaN);
+        fprintf(Balance, "\n");
         fprintf(Balance, "El capital de la empresa es: %d\n", balanceTotal);
 
    
