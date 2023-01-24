@@ -23,9 +23,7 @@ int main(){
             sumaN+=valores;
         }
         balanceTotal=suma+sumaN;
-
-
-            
+        
     }
         cont++;
         fprintf(Balance,"*****Bienvenido*******\n");
